@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <h2>Lista Sintética de Ufs do Brasil</h2>
+        <h2>Lista Sintética de Unidades Federativas do Brasil</h2>
     </header>
     <main>
         <?php
@@ -175,7 +175,7 @@
                 'idh' => 0.639,
                 'alfabetizacao' => '83,3%',
                 'mortalidade_infantil' => '21,3‰',
-                'expectativa_de_vida' => '70.6 anos',
+                'expectativa_de_vida' => '70,6 anos',
             ),
             array(
                 'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Bandeira_de_Mato_Grosso.svg" alt="Bandeira do Mato Grosso">',
@@ -207,7 +207,7 @@
                 'idh' => 0.729,
                 'alfabetizacao' => '93,7%',
                 'mortalidade_infantil' => '14,0‰',
-                'expectativa_de_vida' => '75.5 anos',
+                'expectativa_de_vida' => '75,5 anos',
             ),
             array(
                 'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Bandeira_de_Minas_Gerais.svg" alt="Bandeira de Minas Gerais">',
@@ -254,8 +254,8 @@
                 'pib_per_capita' => 141333.32,
                 'idh' => 0.658,
                 'alfabetizacao' => '83.7%',
-                'mortalidade_infantil' => '16.1‰',
-                'expectativa_de_vida' => '73.2 anos',
+                'mortalidade_infantil' => '16,1‰',
+                'expectativa_de_vida' => '73,2 anos',
             ),
             array(
                 'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_do_Paran%C3%A1.svg" alt="Bandeira do Paraná">',
@@ -286,7 +286,7 @@
                 'pib_per_capita' => 16795.34,
                 'idh' => 0.673,
                 'alfabetizacao' => '87.2%',
-                'mortalidade_infantil' => '12.7‰',
+                'mortalidade_infantil' => '12,7‰',
                 'expectativa_de_vida' => '73,9 anos',
             ),
             array(
@@ -334,7 +334,7 @@
                 'pib_per_capita' => 16631.86,
                 'idh' => 0.684,
                 'alfabetizacao' => '85.3%',
-                'mortalidade_infantil' => '14.7‰',
+                'mortalidade_infantil' => '14,7‰',
                 'expectativa_de_vida' => '75,7 anos',
             ),
             array(
@@ -382,8 +382,72 @@
                 'pib_per_capita' => 20476.71,
                 'idh' => 0.707,
                 'alfabetizacao' => '93.4%',
-                'mortalidade_infantil' => '17.2‰',
+                'mortalidade_infantil' => '17,2‰',
                 'expectativa_de_vida' => '71,5 anos',
+            ),
+            array(
+                'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg" alt="Bandeira de Santa Catarina ">',
+                'unidade_federativa' => 'Santa Catarina',
+                'abreviacao' => 'SC',
+                'sede_de_governo' => 'Florianópolis',
+                'area' => 95346.2,
+                'populacao' => 6734568,
+                'densidade' => 61.53,
+                'pib_2015' => 249073000,
+                '%_total' => 4.2,
+                'pib_per_capita' => 36525.28,
+                'idh' => 0.774,
+                'alfabetizacao' => '97,2%',
+                'mortalidade_infantil' => '9,2‰',
+                'expectativa_de_vida' => '79,1 anos',
+            ),
+            array(
+                'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" alt="Bandeira de São Paulo">',
+                'unidade_federativa' => 'São Paulo',
+                'abreviacao' => 'SP',
+                'sede_de_governo' => 'São Paulo',
+                'area' => 248209.4,
+                'populacao' => 6744169350,
+                'densidade' => 162.93,
+                'pib_2015' => 1939890000,
+                '%_total' => 32.4,
+                'pib_per_capita' => 43694.68,
+                'idh' => 0.783,
+                'alfabetizacao' => '97,2%',
+                'mortalidade_infantil' => '9,9‰',
+                'expectativa_de_vida' => '78,1 anos',
+            ),
+            array(
+                'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg" alt="Bandeira de Sergipe ">',
+                'unidade_federativa' => 'Sergipe',
+                'abreviacao' => 'SE',
+                'sede_de_governo' => 'Aracaju',
+                'area' => 21910.3,
+                'populacao' => 2227294,
+                'densidade' => 89,81,
+                'pib_2015' => 38554000,
+                '%_total' => 0.6,
+                'pib_per_capita' => 17189.28,
+                'idh' => 0.665,
+                'alfabetizacao' => '85.3%',
+                'mortalidade_infantil' => '16,2‰',
+                'expectativa_de_vida' => '72,7 anos',
+            ),
+            array(
+                'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Bandeira_do_Tocantins.svg" alt="Bandeira do Tocantins">',
+                'unidade_federativa' => 'Tocantins',
+                'abreviacao' => 'TO',
+                'sede_de_governo' => 'Palmas',
+                'area' => 277620.9,
+                'populacao' => 1502759,
+                'densidade' => 4.70,
+                'pib_2015' => 28930000,
+                '%_total' => 0.5,
+                'pib_per_capita' => 19094.16,
+                'idh' => 0.699,
+                'alfabetizacao' => '89,6%',
+                'mortalidade_infantil' => '15,8‰',
+                'expectativa_de_vida' => '73,4 anos',
             )
 
 

@@ -32,9 +32,15 @@ table {
     color: black; 
   }
 
+  tr:hover {
+    background-color: #6B8E23;
+    color: white; 
+  }
 
   img{
     width: 50px ;
   }
+
+  
 
  
