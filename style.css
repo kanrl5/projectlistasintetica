@@ -19,7 +19,8 @@ table {
     color: white; /* Verde claro */
   }
 
-  tr:nth-child(even) {
-    background-color:#0A2A1B;
-    color: white; /* Verde claro */
+  img{
+    width: 50px ;
   }
+
+ 
