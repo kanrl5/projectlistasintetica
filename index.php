@@ -11,7 +11,7 @@
         <?php
         $listasintetica = [
             array(
-                'bandeira' => '.' ,
+                'bandeira' => '<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bandeira_do_Acre.svg" alt="Bandeira do Acre"> ' ,
                 'unidade_federativa' => 'Acre',
                 'abreviacao' => 'AC',
                 'sede_de_governo' => 'Rio Branco',
@@ -28,22 +28,22 @@
               
             ),
             array(
-                'bandeira' => 'joana' ,
-                'unidade_federativa' => 1,
-                'abreviacao' => 1,
-                'sede_de_governo' => 1,
-                'area' => 1,
-                'populacao' => 1,
-                'densidade' => 1,
-                'pib_2015' => 1,
-                '%_total' => 1,
-                'pib_per_capita' => 1,
-                'idh' => 1,
-                'alfabetizacao' => 1,
-                'mortalidade_infantil' => 1,
-                'expectativa_de_vida' => 1,
+                'bandeira' => '.' ,
+                'unidade_federativa' => 'Alagoas',
+                'abreviacao' => 'AL',
+                'sede_de_governo' => 'Maceió',
+                'area' => 3327551,
+                'populacao' => 3327551,
+                'densidade' => 108,61,
+                'pib_2015' => 46364000,
+                '%_total' => 0,8,
+                'pib_per_capita' => 13877,53,
+                'idh' => 0,631,
+                'alfabetizacao' => '80,6%',
+                'mortalidade_infantil' => '19,%',
+                'expectativa_de_vida' => '71,6 anos',
               
-            ),
+            )
             
         ]; ?>
 

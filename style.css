@@ -1,0 +1,25 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #0A2A1B;
+    color: white;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #0A2A1B;
+    color: white; /* Verde claro */
+  }
+
+  tr:nth-child(even) {
+    background-color:#0A2A1B;
+    color: white; /* Verde claro */
+  }
