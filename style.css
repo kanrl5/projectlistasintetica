@@ -1,7 +1,16 @@
+*{
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    text-align:center;
+}
 
 table {
     width: 100%;
     border-collapse: collapse;
+    text-align: center;
   }
   
   table, th, td {
@@ -16,8 +25,13 @@ table {
   
   tr:nth-child(even) {
     background-color: #0A2A1B;
-    color: white; /* Verde claro */
+    color: white; 
   }
+  tr:nth-child(odd) {
+    background-color: #F5F5DC;
+    color: black; 
+  }
+
 
   img{
     width: 50px ;
